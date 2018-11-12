@@ -3,7 +3,7 @@ title: Other GatsbyJS starters
 menuTitle: Starters
 ---
 
-**HeroBlog** is not my first [GatsbyJS](https://www.gatsbyjs.org/) starter.
+<!-- **SVPortal** is not my first [GatsbyJS](https://www.gatsbyjs.org/) starter.
 
 ### PersonalBlog
 
@@ -16,4 +16,4 @@ A ready to use, easy to customize Gatsby starter with 'like app' layout transiti
 ![SimpleLanding](./gatsby-starter-simple-landing.png)
 
 As the name says, it is a simple landing page starter.
-[Demo](https://gatsby-starter-simple-landing.greglobinski.com/) | [Github repo](https://github.com/greglobinski/gatsby-starter-simple-landing)
+[Demo](https://gatsby-starter-simple-landing.greglobinski.com/) | [Github repo](https://github.com/greglobinski/gatsby-starter-simple-landing) -->
